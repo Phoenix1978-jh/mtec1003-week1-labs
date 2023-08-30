@@ -15,7 +15,22 @@ $ ls<ENTER>
 
 Copy and paste the output of ls below.
 ----------
-
+Applications
+Creative Cloud Files
+Creative Cloud Files jhernandez@ripcony.com 4e574a6019059630750772dde54b923e308511eb4eb45e93db087630819df73c
+Desktop
+Documents
+Downloads
+FontBase
+Library
+Movies
+Music
+Pictures
+Public
+lsoto@ripcony.com Creative Cloud Files
+node_modules
+package-lock.json
+package.json
 
 
 
