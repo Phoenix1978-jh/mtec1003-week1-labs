@@ -115,6 +115,7 @@ $ foo<ENTER>
 Copy and paste the output below.
 ----------
 
+-bash: foo: command not found
 
 
 
@@ -126,7 +127,7 @@ Copy and paste the output below.
 Copy and paste the output below.
 ----------
 
-
+-bash: foo: command not found
 
 
 
@@ -138,7 +139,10 @@ $ ls -a Desktop
 
 Identify the command, flag, argument, and prompt:
 ----------
-
+command ls
+flag -a
+argument Desktop
+prompt $
 
 
 
