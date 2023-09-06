@@ -75,7 +75,7 @@ $ echo hello there
 
 Copy and paste the output below.
 ----------
-
+hello there
 
 
 
@@ -86,7 +86,7 @@ $ echo whoa
 
 Copy and paste the output below.
 ----------
-
+whoa
 
 
 ==========
@@ -96,7 +96,7 @@ $ echo good mornin'
 
 Copy and paste the output below.
 ----------
-
+>
 
 
 ==========
@@ -114,7 +114,7 @@ $ echo "good mornin'"
 
 Copy and paste the output below.
 ----------
-
+good mornin'
 
 
 ==========
@@ -125,7 +125,7 @@ $ echo *
 
 What happens?
 ----------
-
+Applications Creative Cloud Files Creative Cloud Files jhernandez@ripcony.com 4e574a6019059630750772dde54b923e308511eb4eb45e93db087630819df73c Desktop Documents Downloads FontBase Library Movies Music Pictures Public lsoto@ripcony.com Creative Cloud Files mtec100 mtec1003 node_modules package-lock.json package.json
 
 
 
@@ -134,7 +134,7 @@ What happens?
 
 Write the command that you used below:
 ----------
-
+clear
 
 
 ==========
@@ -149,7 +149,10 @@ $ curl -o mygoogle.html www.google.com
 
 Now copy and paste the output below.
 ----------
-
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 18593    0 18593    0     0   100k      0 --:--:-- --:--:-- --:--:--  104k
+jasmines-iMac:~ jasminehernandez$ 
 
 
 
@@ -161,7 +164,8 @@ Now copy and paste the output below.
 
 Write the command you used to determine your directory. Also, copy and paste the output below.
 ----------
-
+pwd
+/Users/jasminehernandez
 
 
 
@@ -172,7 +176,7 @@ Write the command you used to determine your directory. Also, copy and paste the
 Write the command that you used to change to your home directory.
 If you were already in your home directory, write the command that you *would* have used to change to it!
 ----------
-
+cd ~
 
 
 ===========
