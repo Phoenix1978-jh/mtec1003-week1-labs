@@ -462,14 +462,16 @@ cd ../../
 36. What command is used to delete empty directories?
 ----------
 
-
+rmdir 
+or 
+rm -d
 
 
 
 ==========
 37. What command is used to print out your current working directory?
 ----------
-
+pwd
 
 
 
@@ -477,7 +479,7 @@ cd ../../
 ==========
 38. What flag do I pass to ls to print out all files?
 ----------
-
+-a
 
 
 
@@ -485,15 +487,16 @@ cd ../../
 ==========
 39. What's the shortcut for home directory?
 ----------
-
-
+cd
+or
+~
 
 
 
 ==========
 40. What's a pathname?
 ----------
-
+the general form of the name of a file or directory; it specifies a unique location in a file system (ie: /User/student/Desktop
 
 
 
@@ -501,7 +504,7 @@ cd ../../
 ==========
 41. What is a directory?
 ----------
-
+shows where you are in the computer's filesystem
 
 
 
@@ -509,4 +512,4 @@ cd ../../
 ==========
 42. What's the *absolute* path (full path, starting at root) to your user's Downloads directory?
 ----------
-
+/Users/jasminehernandez/downloads
