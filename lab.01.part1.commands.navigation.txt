@@ -160,14 +160,14 @@ Follow the instructions line-by-line.
 ==========
 12. Open a new terminal window. Create a directory called mtec1003. What command did you use?
 ----------
-
+mkdir mtec1003
 
 
 
 ==========
 13. Change your directory so that you're in mtec1003. What command did you use?
 ----------
-
+cd mtec1003
 
 
 
@@ -183,6 +183,7 @@ If it doesn't ask for help before moving on!
 
 Copy and paste the output of pwd below.
 ----------
+/Users/jasminehernandez/mtec1003
 
 
 
@@ -196,7 +197,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals
 
 
 
@@ -209,7 +210,7 @@ $ ls
 
 Copy and paste the output below.
 ----------
-
+animals	food
 
 
 
@@ -236,6 +237,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/Users/jasminehernandez/mtec1003/foo/bar/baz/qux
 
 
 
@@ -249,6 +251,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/Users/jasminehernandez/mtec1003/foo/bar
 
 
 
@@ -262,6 +265,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
+/Users/jasminehernandez/mtec1003/foo/bar/baz/qux
 
 
 
@@ -275,7 +279,7 @@ $ pwd
 
 Copy and paste the output below.
 ----------
-
+/Users/jasminehernandez/mtec1003
 
 
 
@@ -289,7 +293,10 @@ $ ls -l
 
 Copy and paste the first 3 lines from the output into the space below.
 ----------
-
+drwxr-xr-x  2 jasminehernandez  staff  64 Sep  5 22:02 animals
+drwxr-xr-x  3 jasminehernandez  staff  96 Sep  5 22:06 foo
+drwxr-xr-x  2 jasminehernandez  staff  64 Sep  5 22:03 food
+jasmines-iMac:mtec1003 jasminehernandez$ 
 
 
 
@@ -302,7 +309,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Users/jasminehernandez
 
 
 
@@ -315,7 +322,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
-
+/Volumes
 
 
 
@@ -328,9 +335,9 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
+-bash: cd: /unknown_folder: No such file or directory
 
-
-
+/Volumes
 
 
 ==========
@@ -341,6 +348,7 @@ $ pwd
 
 Copy and paste the output into the space below.
 ----------
+/Users/jasminehernandez/mtec1003
 
 
 
@@ -353,7 +361,7 @@ $ hostname
 
 Copy and paste the output into the space below.
 ----------
-
+jasmines-iMac
 
 
 
@@ -361,7 +369,7 @@ Copy and paste the output into the space below.
 ==========
 28. Make sure you're back in your mtec1003, which should be in your home folder.  What command would you use to find out if you're in the right folder?  Write the command below, then run it.
 ----------
-
+pwd
 
 
 
@@ -389,7 +397,7 @@ lemon
 
 Write the one command you used below:
 ----------
-
+mkdir -p lemon/strawberry/orange/pineapple
 
 
 
@@ -399,6 +407,7 @@ Write the one command you used below:
 
 Write the command you used to create the directory below:
 ----------
+mkdir aardvark
 
 
 
@@ -409,7 +418,8 @@ Write the command you used to create the directory below:
 
 What is the modified date of the aardvark directory?
 ----------
-
+ls -l
+total 0
 
 
 
@@ -423,7 +433,7 @@ What is the modified date of the aardvark directory?
 
 What command did you use?
 ----------
-
+mkdir -p foo/bar/baz
 
 
 
@@ -433,7 +443,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd foo/bar/baz
 
 
 
@@ -443,7 +453,7 @@ What command did you use?
 
 What command did you use?
 ----------
-
+cd ../../
 
 
 
